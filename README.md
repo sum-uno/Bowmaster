@@ -1,8 +1,6 @@
 ![](Assets/Images/MiniLandscape_1080.png)
 
-Hey we're just starting to get things set up at 4Play Games. 
-
-Thanks for the support. 
+This is a text document on a webpage related to 4Play Games and Bowmaster. 
 
 Discord is being used for coms. 
 Ask questions and get updates >>
